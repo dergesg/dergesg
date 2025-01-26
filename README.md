@@ -14,10 +14,18 @@ Here are some of the projects i've worked on during my studies:
 
 Project 1: Lost 
 
-A horror game, that takes place in a supernatural place called "The Backroom" and the objective of the game is to escape while
+It's a horror game, that takes place in a supernatural place called "The Backroom" and the objective of the game is to escape while dealing with terrifying jumpscares and eerie environment.
+This is the very first game i collaborated on with 2 of my classmates. 
 
 Role: 
 - Worked on the special effects and mechanics of the jumpscares, including triggering events and implementing visual/audio effects to enhance scare factor.
+
+Links: [youtube video]
+
+Project 2: Parallel
+
+
+
 
 
 
