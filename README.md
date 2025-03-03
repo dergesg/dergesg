@@ -47,7 +47,7 @@ This is the most recent game i've developed alongside 2 classmates, and this is 
 Role:
 - Worked primarlily on the bosses' AI to ensure a challenging and engaging encounters. I also contributed to the SFX to the bosses, and also worked on their animations and fine tuning their hitboxes to create a smooth and accurate interaction.
 
-Link: [youtube video]
+Link: https://www.youtube.com/watch?v=t33xsMP0SOs
 
 
 ## CONNECT WITH ME
